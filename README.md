@@ -17,8 +17,20 @@ First-generation Mexican-American from Azusa, California.
 
 I love Mazda RX-7s, Supras, and Jujutsu Kaisen...
 
+## Hackathons
+
+<p align="center">
+  <img src="astrohacksLogo.jpeg" alt="AstroHacks logo" width="90">
+</p>
+
+| Event | School | Result |
+| --- | --- | --- |
+| 🏆 AstroHacks | — | **Winner** — Gold Medalist |
+
 ## Competitions
 
 | Event | Result |
 | --- | --- |
 | **FIRST Robotics** (Regional) | Semifinalist — Top 5 of 32 teams |
+
+
