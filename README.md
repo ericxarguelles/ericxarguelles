@@ -19,8 +19,8 @@ I love Mazda RX-7s, Supras, and Jujutsu Kaisen...
 
 ## Hackathons
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/52c0ee46-8706-4acf-8cb1-423f8a1f93ba" alt="AstroHacks logo" width="90">
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/52c0ee46-8706-4acf-8cb1-423f8a1f93ba" alt="AstroHacks logo" width="60">
 </p>
 
 | Event | School | Result |
