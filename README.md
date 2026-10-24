@@ -1,3 +1,6 @@
+
+<img width="200" height="200" alt="astrohacksLogo" src="https://github.com/user-attachments/assets/dbc70448-60ca-4ede-834b-38709aa2ea7f" />
+
 # Eric Xavier Arguelles
 
 #### **BME @ UCI**
