@@ -1,6 +1,3 @@
-
-<img width="200" height="200" alt="astrohacksLogo" src="https://github.com/user-attachments/assets/dbc70448-60ca-4ede-834b-38709aa2ea7f" />
-
 # Eric Xavier Arguelles
 
 #### **BME @ UCI**
@@ -23,7 +20,7 @@ I love Mazda RX-7s, Supras, and Jujutsu Kaisen...
 ## Hackathons
 
 <p align="center">
-  <img src="astrohacksLogo.jpeg" alt="AstroHacks logo" width="90">
+  <img src="https://github.com/user-attachments/assets/52c0ee46-8706-4acf-8cb1-423f8a1f93ba" alt="AstroHacks logo" width="90">
 </p>
 
 | Event | School | Result |
