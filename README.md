@@ -16,7 +16,7 @@ Studying Biomedical Engineering at UCI Samueli School of Engineering.
 
 First-generation Mexican-American from Azusa, California.
 
-I love Mazda RX-7s, Supras, and Jujutsu Kaisen...
+I love Mazda RX-7s, Supras, and Penguins...
 
 ## Featured Projects
 
