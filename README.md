@@ -24,9 +24,9 @@ I love Mazda RX-7s, Supras, and Jujutsu Kaisen...
 Voice-controlled ChatGPT assistant that operates your Android phone --- built for blind and low-vision users in mind. Hold your side button and give ChatGPT assistant a task, and it navigates your phone through Android’s accessibility interface—opening apps, reading messages, tapping, typing, and completing multi-step or conditional tasks. Includes 12+ MCP tools and runs through your own Windows-hosted Node.js server with Tailscale connectivity.
 
 ![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-22%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2.1.20-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![JUnit 4](https://img.shields.io/badge/JUnit-4.13.2-25A162?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 
 ## Hackathons
