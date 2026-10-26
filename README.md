@@ -45,4 +45,33 @@ Voice-controlled ChatGPT assistant that operates your Android phone --- built fo
 | --- | --- |
 | **FIRST Robotics** (Regional) | Semifinalist — Top 5 of 32 teams |
 
+## Languages & Tools
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+### AI & Automation
+
+![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![Android Accessibility](https://img.shields.io/badge/Android_Accessibility-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### Backend & Connectivity
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
+### Development & Testing
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 
