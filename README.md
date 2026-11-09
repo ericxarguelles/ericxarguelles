@@ -44,7 +44,8 @@ Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge 
 
 <p>
   <a href="https://github.com/ericxarguelles/FTC-Robot">
-    <img src="./first-tech-challenge.png" height="90" alt="FIRST Tech Challenge logo" />
+    <img src="https://github.com/user-attachments/assets/4ec21707-e09d-4bdc-bfd7-0a430af325c4"
+ height="90" alt="FIRST Tech Challenge logo" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/ericxarguelles/FTC-Robot">
