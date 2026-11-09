@@ -42,8 +42,15 @@ Built for the AstroHacks hackathon in 2024, this Unity game lets players pilot a
 
 Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge season (2023–2024). As Lead Facilitator and Engineer, I worked with teachers and district administrators to launch the program and recruit a founding team of 16 students. Team 24578 reached the regional semifinals and finished in the top 5 of 32 teams.
 
-![FIRST Tech Challenge](https://img.shields.io/badge/FIRST-Tech_Challenge-0066B3?style=flat-square)
-![CENTERSTAGE](https://img.shields.io/badge/CENTERSTAGE-2023%E2%80%932024-5B3D8E?style=flat-square)
+<p>
+  <a href="https://github.com/ericxarguelles/FTC-Robot">
+    <img src="./first-tech-challenge.png" height="90" alt="FIRST Tech Challenge logo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ericxarguelles/FTC-Robot">
+    <img src="./centerstage.png" height="90" alt="CENTERSTAGE presented by RTX and FIRST Tech Challenge logos" />
+  </a>
+</p>
 
 🏆 **1st Place — AstroHacks 2024**
 
