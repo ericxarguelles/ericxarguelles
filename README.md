@@ -42,6 +42,8 @@ Built for the AstroHacks hackathon in 2024, this Unity game lets players pilot a
 
 Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge season (2023–2024). The Java code runs the robot in both autonomous and driver-controlled modes. It includes four autonomous routines covering front and back starting positions for both alliances. During driver-controlled play, two gamepads operate the drivetrain, arm, wrist, grippers, and drone launcher.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
 <p>
   <a href="https://github.com/ericxarguelles/FTC-Robot">
     <img src="https://github.com/user-attachments/assets/4ec21707-e09d-4bdc-bfd7-0a430af325c4"
@@ -51,9 +53,7 @@ Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge 
   <a href="https://github.com/ericxarguelles/FTC-Robot">
     <img src="https://github.com/user-attachments/assets/4251558b-ce3d-4aa2-b903-14889bdfc891" height="48" alt="CENTERSTAGE presented by RTX and FIRST Tech Challenge logos" />
   </a>
-</p>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+</p> 
 
 🏆 **1st Place — AstroHacks 2024**
 
