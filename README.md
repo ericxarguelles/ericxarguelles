@@ -40,7 +40,7 @@ Built for the AstroHacks hackathon in 2024, this Unity game lets players pilot a
 
 ### [FTC Team 24578 — CENTERSTAGE Robot](https://github.com/ericxarguelles/FTC-Robot)
 
-Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge season (2023–2024). As Lead Facilitator and Engineer, I worked with teachers and district administrators to launch the program and recruit a founding team of 16 students. The Java code runs the robot in both autonomous and driver-controlled modes. It includes four autonomous routines covering front and back starting positions for both alliances. During driver-controlled play, two gamepads operate the drivetrain, arm, wrist, grippers, and drone launcher.
+Competition robot code for Azusa High School’s inaugural FIRST Tech Challenge season (2023–2024). The Java code runs the robot in both autonomous and driver-controlled modes. It includes four autonomous routines covering front and back starting positions for both alliances. During driver-controlled play, two gamepads operate the drivetrain, arm, wrist, grippers, and drone launcher.
 
 <p>
   <a href="https://github.com/ericxarguelles/FTC-Robot">
