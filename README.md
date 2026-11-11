@@ -12,7 +12,7 @@
 
 ## About Me
 
-Studying Biomedical Engineering at UCI Samueli School of Engineering. Third year Junior with passion in pushing the frontier of surgical, autonomous, and nano robotics.
+Studying Biomedical Engineering at UCI Samueli School of Engineering. Third year with passion in pushing the frontier of surgical, autonomous, and nano robotics.
 
 First-generation Mexican-American from Azusa, California.
 
