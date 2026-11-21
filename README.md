@@ -21,6 +21,7 @@ I love Mazda RX-7s, Supras, and Penguins...
 ## Featured Projects
 
 ### [Agentic Automation on Android](https://github.com/ericxarguelles/Agentic-Automation-on-Android)
+*Assisted Creation with Codex
 
 Voice-controlled ChatGPT assistant that operates your Android phone, built for blind and low-vision users in mind. Hold your side button and give ChatGPT assistant a task, it then navigates your phone through Android’s accessibility API, reading messages, tapping, typing, and completing multi-sequence or conditional tasks. Includes 12+ MCP tools and runs through your own Windows-hosted Node.js server with Tailscale connectivity.
 
